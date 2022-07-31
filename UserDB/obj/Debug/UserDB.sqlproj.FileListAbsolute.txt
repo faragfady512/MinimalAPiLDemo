@@ -1,0 +1,10 @@
+C:\Users\Fady Farag\source\repos\minimalApiDemo\UserDB\bin\Debug\UserDB.dacpac
+C:\Users\Fady Farag\source\repos\minimalApiDemo\UserDB\bin\Debug\UserDB.dll
+C:\Users\Fady Farag\source\repos\minimalApiDemo\UserDB\bin\Debug\UserDB.pdb
+C:\Users\Fady Farag\source\repos\minimalApiDemo\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+C:\Users\Fady Farag\source\repos\minimalApiDemo\UserDB\obj\Debug\UserDB.dll
+C:\Users\Fady Farag\source\repos\minimalApiDemo\UserDB\obj\Debug\UserDB.pdb
+C:\Users\Fady Farag\source\repos\minimalApiDemo\UserDB\obj\Debug\Model.xml
+C:\Users\Fady Farag\source\repos\minimalApiDemo\UserDB\obj\Debug\refactor.xml
+C:\Users\Fady Farag\source\repos\minimalApiDemo\UserDB\obj\Debug\postdeploy.sql
+C:\Users\Fady Farag\source\repos\minimalApiDemo\UserDB\obj\Debug\predeploy.sql
