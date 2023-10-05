@@ -33,14 +33,14 @@ Before you begin, ensure you have the following installed:
 6. Run the Blazor application:
 7. Open your web browser and navigate to https://localhost:5001 to access the Blazor client application.
 
--API Endpoints
--GET /api/users: Get all users.
--GET /api/users/{id}: Get a user by ID.
--POST /api/users: Create a new user.
--PUT /api/users/{id}: Update an existing user.
--DELETE /api/users/{id}: Delete a user.
--Contributing
--Contributions are welcome! Please fork this repository and submit a pull request with your changes.
+- API Endpoints
+- GET /api/users: Get all users.
+- GET /api/users/{id}: Get a user by ID.
+- POST /api/users: Create a new user.
+- PUT /api/users/{id}: Update an existing user.
+- DELETE /api/users/{id}: Delete a user.
+- Contributing
+- Contributions are welcome! Please fork this repository and submit a pull request with your changes.
 
 
 
